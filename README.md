@@ -1,16 +1,15 @@
 # app_responsive
 
-A new Flutter project.
+A new Flutter responsive app project.
 
-## Getting Started
+## Sample page
+-----------------------------------------------------------
 
-This project is a starting point for a Flutter application.
+### Mobile Layout (size < 500)
+![mobile](https://github.com/user-attachments/assets/633d604c-d34e-403c-be67-774e2dbb5041)
 
-A few resources to get you started if this is your first Flutter project:
+### Tablet Layout (size < 1100)
+![tablet](https://github.com/user-attachments/assets/10945d57-2b05-4909-b59f-592d2b33d314)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Disktop Layout (size > 1100)
+![desktop](https://github.com/user-attachments/assets/0e6e9bfc-45f1-4a80-a52b-ae2bb0108c7c)
